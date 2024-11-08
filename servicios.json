@@ -1,0 +1,12 @@
+[
+  {
+    "nombre": "Desayuno",
+    "precio": 10,
+    "horario": "07:00-10:00"
+  },
+  {
+    "nombre": "Servicio a cuarto",
+    "precio": 15,
+    "horario": "14:00-23:00"
+  }
+]

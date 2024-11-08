@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "cliente": "Juan Perez",
+    "total": 500,
+    "metodoPago": "Tarjeta",
+    "fecha": "2024-10-25"
+  },
+  {
+    "id": "2",
+    "cliente": "Scovasso Luca",
+    "total": 5000,
+    "metodoPago": "Efectivo",
+    "fecha": "2024-10-20"
+  }
+]
